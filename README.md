@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @no-gi
+- 👋 Hi, I’m Norman Gies
 - 👀 I’m interested in Salesforce and integration at all
 - 🌱 I’m currently learning enhanced continous deployment
 - 💞️ I’m looking to collaborate on architecture
